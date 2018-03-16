@@ -1,2 +1,5 @@
-# HTOP
+# HPOT
 MYGKRELLM C++
+Install
+$ make re
+$ ./hpot
